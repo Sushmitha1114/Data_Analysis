@@ -1,0 +1,9 @@
+order_id,order_date,region,product,quantity,unit_price
+101,1/15/2025,North,Laptop,2,55000
+102,1/20/2025,South,Keyboard,5,1500
+103,2/10/2025,East,Mouse,10,800
+104,2/15/2025,West,Monitor,3,12000
+105,3/1/2025,North,Laptop,1,53000
+106,3/10/2025,South,Mouse,6,850
+107,4/5/2025,East,Laptop,1,60000
+108,4/10/2025,West,Monitor,2,12500
